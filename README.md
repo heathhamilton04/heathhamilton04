@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Movies, Cooking, Coding, and Sports 
 - 🌱 I’m currently learning ... Git, CSS, HTML5, React, Python, and Java Script
 - 💞️ I’m currently enrolled in a ... Devcamp Coding Bootcamp
-- 📫 How to reach me ... heathhamilton04@yahho.com
+- 📫 How to reach me ... heathhamilton04@yahoo.com
 
 <!---
 heathhamilton04/heathhamilton04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
