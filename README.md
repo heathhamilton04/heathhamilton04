@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeorgeHamilton04
 - 👀 I’m interested in ... Movies, Cooking, Coding, and Sports 
 - 🌱 I’m currently learning ... Git, CSS, HTML5, React, Python, and Java Script
-- 💞️ I’m looking to collaborate on ... Devcamp Coding Bootcamp
+- 💞️ I’m currently enrolled in a ... Devcamp Coding Bootcamp
 - 📫 How to reach me ... heathhamilton04@yahho.com
 
 <!---
